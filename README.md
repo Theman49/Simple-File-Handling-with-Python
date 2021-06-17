@@ -2,13 +2,15 @@
 File handling with python (Indonesian ID / KTP (Kartu Tanda Penduduk) Indonesia)
 
 ## Main File
-> main.py
-> modul_crud.py
+*   main.py<br>
+*   modul_crud.py
 
 ## Optional File
-> data_sample.py
+*   data_sample.py
+
+
 
 ## How to use
-> `git clone "https://github.com/Theman49/Simple-File-Handling-with-Python.git"`
-> `cd Simple-File-Handling-with-Python`
-> `python main.py`
+1. `git clone "https://github.com/Theman49/Simple-File-Handling-with-Python.git"`
+2. `cd Simple-File-Handling-with-Python`
+3. `python main.py`
